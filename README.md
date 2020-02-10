@@ -1,5 +1,5 @@
-#Agile Software Development 
-##Charmaine Chan and Alex Li
+# Agile Software Development 
+## Charmaine Chan and Alex Li
 
 Ever get tired of writing and sending thank you emails? Sincerely is a application that automatically generates thank you emails with customizable fields for the interviewer's name, company and other specifics. Users can choose suggested templates that would be most fitted for the occasion. 
 
